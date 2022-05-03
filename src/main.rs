@@ -49,7 +49,7 @@ fn calculate_safety_status(
     has_carrot: bool,
     friends_nearby: i32,
 ) -> bool {
-    (!wolves_nearby && day_time) || has_carrot || friends_nearby > 3
+    todo!()
 }
 
 /// Validate the simulation
